@@ -90,3 +90,12 @@ streamlit run streamlit_app.py
 
 ⚠️ Disclaimer
 This project is built for academic / research purposes only and is not intended for real clinical diagnosis.
+
+
+🔮 Future Improvements
+Real patient longitudinal datasets
+3D tumor volume prediction
+Survival analysis
+Cloud deployment
+Explainable AI
+PDF medical reports
