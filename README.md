@@ -1,10 +1,10 @@
-# 🧠 Automated Brain Tumor Segmentation and Future Progression Forecasting
+#  Automated Brain Tumor Segmentation and Future Progression Forecasting
 
 AI-powered healthcare project that performs **brain tumor segmentation** from multi-modal MRI scans and predicts **future tumor progression** using machine learning.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload `.h5` MRI scan
 - Automatic tumor segmentation
@@ -17,7 +17,7 @@ AI-powered healthcare project that performs **brain tumor segmentation** from mu
 
 ---
 
-## 🧩 Workflow
+##  Workflow
 
 1. Upload multi-modal MRI file  
 2. Preprocess input scan  
@@ -28,7 +28,7 @@ AI-powered healthcare project that performs **brain tumor segmentation** from mu
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 ### Tumor Segmentation
 - **U-Net** (TensorFlow / Keras)
@@ -38,7 +38,7 @@ AI-powered healthcare project that performs **brain tumor segmentation** from mu
 
 ---
 
-## 📊 Sample Results
+##  Sample Results
 
 | Metric | Value |
 |------|------|
@@ -56,7 +56,7 @@ AI-powered healthcare project that performs **brain tumor segmentation** from mu
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - TensorFlow / Keras
@@ -68,7 +68,7 @@ AI-powered healthcare project that performs **brain tumor segmentation** from mu
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 brain-tumor-segmentation-future-growth-prediction/
